@@ -1,0 +1,12 @@
+/Users/soniatoyota5941/Projects/9X9_Practice/9X9_Practice/bin/Debug/netcoreapp3.1/9X9_Practice.deps.json
+/Users/soniatoyota5941/Projects/9X9_Practice/9X9_Practice/bin/Debug/netcoreapp3.1/9X9_Practice.runtimeconfig.json
+/Users/soniatoyota5941/Projects/9X9_Practice/9X9_Practice/bin/Debug/netcoreapp3.1/9X9_Practice.runtimeconfig.dev.json
+/Users/soniatoyota5941/Projects/9X9_Practice/9X9_Practice/bin/Debug/netcoreapp3.1/9X9_Practice.dll
+/Users/soniatoyota5941/Projects/9X9_Practice/9X9_Practice/bin/Debug/netcoreapp3.1/9X9_Practice.pdb
+/Users/soniatoyota5941/Projects/9X9_Practice/9X9_Practice/obj/Debug/netcoreapp3.1/9X9_Practice.csprojAssemblyReference.cache
+/Users/soniatoyota5941/Projects/9X9_Practice/9X9_Practice/obj/Debug/netcoreapp3.1/9X9_Practice.AssemblyInfoInputs.cache
+/Users/soniatoyota5941/Projects/9X9_Practice/9X9_Practice/obj/Debug/netcoreapp3.1/9X9_Practice.AssemblyInfo.cs
+/Users/soniatoyota5941/Projects/9X9_Practice/9X9_Practice/obj/Debug/netcoreapp3.1/9X9_Practice.csproj.CoreCompileInputs.cache
+/Users/soniatoyota5941/Projects/9X9_Practice/9X9_Practice/obj/Debug/netcoreapp3.1/9X9_Practice.dll
+/Users/soniatoyota5941/Projects/9X9_Practice/9X9_Practice/obj/Debug/netcoreapp3.1/9X9_Practice.pdb
+/Users/soniatoyota5941/Projects/9X9_Practice/9X9_Practice/obj/Debug/netcoreapp3.1/9X9_Practice.genruntimeconfig.cache
